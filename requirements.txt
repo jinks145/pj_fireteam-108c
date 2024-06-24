@@ -3,3 +3,8 @@ torch
 sqlalchemy
 numpy
 pandas
+matplotlib
+seaborn
+scikit-learn
+scikit-surprise
+scipy
